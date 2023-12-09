@@ -1,0 +1,19 @@
+// ==UserScript==
+// @ScriptName        哔哩哔哩高帧率[墨鱼版]
+// @Author            @ddgksf2013, @blackmatrix7, @app2smile, @yjqiang, @kokoryh, @Maasea, @BiliUniverse
+// @Feedback          📮 ddgksf2013@163.com 📮
+// @UpdateTime        2023-11-24
+// @ScriptURL         https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf
+// ==/UserScript==
+
+hostname = app.bilibili.com
+
+# ======= BiliJson 高码率 ======= #
+# ～ BiliBili_哔哩哔哩_1080P高码率+4K画质[番剧和影视除外]@ddgksf2013
+^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/myinfo\? url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/bilibili_json.js
+
+# ======= BiliJson 外观处理 ======= #
+# ～ BiliBili_哔哩哔哩_标签页处理@ddgksf2013
+^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/tab url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/bilibili_json.js
+# ～ BiliBili_哔哩哔哩_我的页面处理@ddgksf2013
+^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/mine url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/bilibili_json.js
