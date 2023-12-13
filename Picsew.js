@@ -25,7 +25,7 @@ https://apps.apple.com/us/app/id944665061
 
 hostname=buy.itunes.apple.com
 
-***********************************/
+/***********************************/
 
 
 
