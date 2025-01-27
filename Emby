@@ -1,0 +1,15 @@
+# NAME: Emby
+# UPDATED: 2024-07-03 16:17:40
+
+HOST,emby.enjoyit.eu.org,Emby
+HOST,emby.lcloud.wiki,Emby
+HOST,notnetflix.cos.cat,Emby
+HOST-SUFFIX,embyplus.org,Emby
+HOST-SUFFIX,embyserver.ga,Emby
+HOST-SUFFIX,peachmv.me,Emby
+HOST-SUFFIX,pilipiliultra.com,Emby
+HOST-SUFFIX,poloemby.xyz,Emby
+HOST-SUFFIX,pub1.emby.wtf,Direct
+HOST-SUFFIX,cc.coemn.com,Direct
+HOST-SUFFIX,embymv.link,Direct
+HOST-SUFFIX,emby.nebula-media.org,Direct
