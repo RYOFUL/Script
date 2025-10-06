@@ -8,8 +8,10 @@ HOST-SUFFIX,misty.cx,Emby
 # 纸片人
 HOST-SUFFIX,embyplus.org,Emby
 
+# nebula
 HOST-SUFFIX,emby.nebula-media.org,Emby
 HOST-SUFFIX,cdn1.nebula-media.org,Emby
+HOST-SUFFIX,web.nebula-media.org,Emby
 HOST-SUFFIX,audio.poloemby.xyz,Emby
 
 # 直连
