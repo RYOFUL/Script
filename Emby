@@ -1,22 +1,34 @@
 # NAME: Emby
 # UPDATED: 2025-01-28
 
-HOST-SUFFIX,embyplus.org,Emby
-HOST-SUFFIX,embyserver.ga,Emby
-HOST-SUFFIX,peachmv.me,Emby
-HOST-SUFFIX,pilipiliultra.com,Emby
-HOST-SUFFIX,pilipili.club,Emby
-HOST-SUFFIX,emby.nebula-media.org,Emby
-HOST-SUFFIX,cdn1.nebula-media.org,Emby
-HOST-SUFFIX,july.vfing.de,Emby
+# Misty
 HOST-SUFFIX,misty.cx,Emby
-HOST-SUFFIX,2pfdml.mobaiemby.site,Emby
-HOST-SUFFIX,audio.poloemby.xyz,Emby
-HOST-SUFFIX,pub1.emby.wtf,Emby
-HOST-SUFFIX,pub3.emby.wtf,Emby
-HOST-SUFFIX,embymv.link,Emby
 
+HOST-SUFFIX,emby.nebula-media.org,Emby
+HOST-SUFFIX,cdn1.nebula-media.org,Emb
+HOST-SUFFIX,audio.poloemby.xyz,Emby
+
+# 直连
+
+# cc
 HOST-SUFFIX,cc.coemn.com,Emby Direct
+
 HOST-SUFFIX,music.xxxh.de,Emby Direct
+
+#惊蛰
 HOST-SUFFIX,emby.jingzhe.pro,Emby Direct
+
+# 纸片人
+HOST-SUFFIX,embyplus.org,Emby Direct
+
+# Pilipili
+HOST-SUFFIX,pilipiliultra.com,Emby Direct
+
+# 终点站
+HOST-SUFFIX,pub1.emby.wtf,Emby Direct
+
+# 桃子
+HOST-SUFFIX,embymv.link,Emby Direct
+
+
 
