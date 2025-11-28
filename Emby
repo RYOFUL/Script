@@ -4,28 +4,23 @@
 # Misty
 HOST-SUFFIX,misty.cx,Emby
 
-
 # 纸片人
 HOST-SUFFIX,embyplus.org,Emby
 
 # nebula
-HOST-SUFFIX,emby.nebula-media.org,Emby
-HOST-SUFFIX,cdn1.nebula-media.org,Emby
-HOST-SUFFIX,web.nebula-media.org,Emby
+HOST-SUFFIX,nebula-media.org,Emby
 
 # Polo 有声书
-HOST-SUFFIX,audio.poloemby.xyz,Emby
+HOST-SUFFIX,poloemby.xyz,Emby
 
 
 # 直连
 # cc
-HOST-SUFFIX,cc.coemn.com,Emby Direct
-
-HOST-SUFFIX,music.xxxh.de,Emby Direct
+HOST-SUFFIX,coemn.com,Emby Direct
+HOST-SUFFIX,mxxxh.de,Emby Direct
 
 #惊蛰
 HOST-SUFFIX,emby.jingzhe.pro,Emby Direct
-
 
 # Pilipili
 HOST-SUFFIX,pilipiliultra.com,Emby Direct
@@ -37,8 +32,10 @@ HOST-SUFFIX,pub1.emby.wtf,Emby Direct
 HOST-SUFFIX,embymv.link,Emby Direct
 
 # 琉璃服
-HOST-SUFFIX,emby.kongcheng666.dpdns.org,Emby Direct
+HOST-SUFFIX,kongcheng666.dpdns.org,Emby Direct
 
+# Okemby
+HOST-SUFFIX,okemby.org,Emby Direct
 
 
 
