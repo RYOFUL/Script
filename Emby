@@ -13,6 +13,9 @@ HOST-SUFFIX,nebula-media.org,Emby
 # Polo 有声书
 HOST-SUFFIX,poloemby.xyz,Emby
 
+# Pilipili
+HOST-SUFFIX,pilipiliultra.com,Emby
+
 
 # 直连
 # cc
@@ -23,8 +26,6 @@ HOST-SUFFIX,hka-emby.aliz.work,Emby Direct
 #惊蛰
 HOST-SUFFIX,jingzhe.pro,Emby
 
-# Pilipili
-HOST-SUFFIX,pilipiliultra.com,Emby Direct
 
 # 终点站
 HOST-SUFFIX,pub1.emby.wtf,Emby Direct
