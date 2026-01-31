@@ -13,6 +13,9 @@ HOST-SUFFIX,nebula-media.org,Emby
 # Polo 有声书
 HOST-SUFFIX,poloemby.xyz,Emby
 
+# 爱音乐 有声书
+HOST-SUFFIX,yueer.aiinyue.com,Emby
+
 # Pilipili
 HOST-SUFFIX,pilipiliultra.com,Emby
 
