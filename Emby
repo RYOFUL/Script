@@ -19,9 +19,6 @@ HOST-SUFFIX,poloemby.xyz,Emby
 # 爱音乐 有声书
 HOST-SUFFIX,yueer.aiinyue.com,Emby
 
-# Pilipili
-HOST-SUFFIX,pilipiliultra.com,Emby
-
 # Mangabz
 HOST-SUFFIX,cover.mangabz.com,Emby
 
@@ -30,9 +27,10 @@ HOST-SUFFIX,cover.mangabz.com,Emby
 # cc
 HOST-SUFFIX,coemn.com,Emby Direct
 HOST-SUFFIX,mxxxh.de,Emby Direct
-HOST-SUFFIX,hka-emby.aliz.work,Emby Direct
+HOST-SUFFIX,hka-emby.aliz.work,Emby
 
-
+# Pilipili
+HOST-SUFFIX,pilipiliultra.com,Emby Direct
 
 #惊蛰
 HOST-SUFFIX,jingzhe.pro,Emby
