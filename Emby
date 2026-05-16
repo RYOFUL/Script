@@ -3,6 +3,7 @@
 
 # HG
 HOST-SUFFIX,dnscf.dpdns.org,Emby
+HOST-SUFFIX,hgemby.qzz.io,Emby
 
 # Misty
 HOST-SUFFIX,misty.cx,Emby
